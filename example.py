@@ -11,3 +11,4 @@ print('Hello from my MLOps journey!')
 # Worked on CNN model for image classification on 2024-01-08
 # Explored RNNs and LSTM for time-series data on 2024-01-09
 # Integrated Git for version control on 2024-01-10
+# Setup Jenkins for CI/CD pipeline on 2024-01-11
