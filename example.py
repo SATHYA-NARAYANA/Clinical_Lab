@@ -20,3 +20,4 @@ print('Hello from my MLOps journey!')
 # Used AWS Lambda for lightweight tasks on 2024-01-17
 # Monitored logs with CloudWatch on 2024-01-18
 # Explored full stack dev with MERN on 2024-01-19
+# Built basic React dashboard for ML metrics on 2024-01-20
