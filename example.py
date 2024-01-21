@@ -21,3 +21,4 @@ print('Hello from my MLOps journey!')
 # Monitored logs with CloudWatch on 2024-01-18
 # Explored full stack dev with MERN on 2024-01-19
 # Built basic React dashboard for ML metrics on 2024-01-20
+# Integrated MongoDB for user data on 2024-01-21
