@@ -27,3 +27,4 @@ print('Hello from my MLOps journey!')
 # Learned about Linux shell scripting on 2024-01-24
 # Used RedHat Linux for deployment on 2024-01-25
 # Fine-tuned model performance metrics on 2024-01-26
+# Setup alerting in Kubernetes cluster on 2024-01-27
