@@ -32,3 +32,4 @@ print('Hello from my MLOps journey!')
 # Added model versioning feature on 2024-01-29
 # Tested pipeline with real-time data on 2024-01-30
 # Initialized MLOps project with Python on 2024-01-31
+# Explored Python for data science on 2024-02-01
