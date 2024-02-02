@@ -33,3 +33,4 @@ print('Hello from my MLOps journey!')
 # Tested pipeline with real-time data on 2024-01-30
 # Initialized MLOps project with Python on 2024-01-31
 # Explored Python for data science on 2024-02-01
+# Started with basic ML algorithms on 2024-02-02
