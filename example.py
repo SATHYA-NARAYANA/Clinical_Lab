@@ -34,3 +34,4 @@ print('Hello from my MLOps journey!')
 # Initialized MLOps project with Python on 2024-01-31
 # Explored Python for data science on 2024-02-01
 # Started with basic ML algorithms on 2024-02-02
+# Implemented linear regression model on 2024-02-03
