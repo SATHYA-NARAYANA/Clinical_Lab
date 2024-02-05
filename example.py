@@ -36,3 +36,4 @@ print('Hello from my MLOps journey!')
 # Started with basic ML algorithms on 2024-02-02
 # Implemented linear regression model on 2024-02-03
 # Learned about classification techniques on 2024-02-04
+# Built decision trees and random forest on 2024-02-05
