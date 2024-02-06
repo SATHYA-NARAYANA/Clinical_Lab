@@ -37,3 +37,4 @@ print('Hello from my MLOps journey!')
 # Implemented linear regression model on 2024-02-03
 # Learned about classification techniques on 2024-02-04
 # Built decision trees and random forest on 2024-02-05
+# Started deep learning with TensorFlow on 2024-02-06
