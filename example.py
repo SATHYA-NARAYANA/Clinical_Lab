@@ -38,3 +38,4 @@ print('Hello from my MLOps journey!')
 # Learned about classification techniques on 2024-02-04
 # Built decision trees and random forest on 2024-02-05
 # Started deep learning with TensorFlow on 2024-02-06
+# Worked on CNN model for image classification on 2024-02-07
