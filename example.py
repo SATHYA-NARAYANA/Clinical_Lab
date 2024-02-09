@@ -40,3 +40,4 @@ print('Hello from my MLOps journey!')
 # Started deep learning with TensorFlow on 2024-02-06
 # Worked on CNN model for image classification on 2024-02-07
 # Explored RNNs and LSTM for time-series data on 2024-02-08
+# Integrated Git for version control on 2024-02-09
