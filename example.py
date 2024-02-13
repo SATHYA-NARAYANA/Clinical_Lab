@@ -44,3 +44,4 @@ print('Hello from my MLOps journey!')
 # Setup Jenkins for CI/CD pipeline on 2024-02-10
 # Dockerized ML application on 2024-02-11
 # Learned Kubernetes for orchestration on 2024-02-12
+# Created Helm charts for deployment on 2024-02-13
