@@ -45,3 +45,4 @@ print('Hello from my MLOps journey!')
 # Dockerized ML application on 2024-02-11
 # Learned Kubernetes for orchestration on 2024-02-12
 # Created Helm charts for deployment on 2024-02-13
+# Deployed app to AWS EC2 on 2024-02-14
