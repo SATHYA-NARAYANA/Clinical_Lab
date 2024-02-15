@@ -46,3 +46,4 @@ print('Hello from my MLOps journey!')
 # Learned Kubernetes for orchestration on 2024-02-12
 # Created Helm charts for deployment on 2024-02-13
 # Deployed app to AWS EC2 on 2024-02-14
+# Configured S3 for model storage on 2024-02-15
