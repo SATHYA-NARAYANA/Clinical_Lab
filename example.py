@@ -48,3 +48,4 @@ print('Hello from my MLOps journey!')
 # Deployed app to AWS EC2 on 2024-02-14
 # Configured S3 for model storage on 2024-02-15
 # Used AWS Lambda for lightweight tasks on 2024-02-16
+# Monitored logs with CloudWatch on 2024-02-17
