@@ -49,3 +49,4 @@ print('Hello from my MLOps journey!')
 # Configured S3 for model storage on 2024-02-15
 # Used AWS Lambda for lightweight tasks on 2024-02-16
 # Monitored logs with CloudWatch on 2024-02-17
+# Explored full stack dev with MERN on 2024-02-18
