@@ -77,3 +77,4 @@ print('Hello from my MLOps journey!')
 # Created Helm charts for deployment on 2024-03-14
 # Deployed app to AWS EC2 on 2024-03-15
 # Configured S3 for model storage on 2024-03-16
+# Used AWS Lambda for lightweight tasks on 2024-03-17
