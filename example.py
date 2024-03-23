@@ -83,3 +83,4 @@ print('Hello from my MLOps journey!')
 # Built basic React dashboard for ML metrics on 2024-03-20
 # Integrated MongoDB for user data on 2024-03-21
 # Started building Flutter mobile app on 2024-03-22
+# Connected Flutter to backend API on 2024-03-23
