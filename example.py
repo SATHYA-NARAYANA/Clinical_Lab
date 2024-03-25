@@ -85,3 +85,4 @@ print('Hello from my MLOps journey!')
 # Started building Flutter mobile app on 2024-03-22
 # Connected Flutter to backend API on 2024-03-23
 # Learned about Linux shell scripting on 2024-03-24
+# Used RedHat Linux for deployment on 2024-03-25
