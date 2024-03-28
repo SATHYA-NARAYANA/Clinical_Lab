@@ -88,3 +88,4 @@ print('Hello from my MLOps journey!')
 # Used RedHat Linux for deployment on 2024-03-25
 # Fine-tuned model performance metrics on 2024-03-26
 # Setup alerting in Kubernetes cluster on 2024-03-27
+# Enabled GPU support for DL models on 2024-03-28
